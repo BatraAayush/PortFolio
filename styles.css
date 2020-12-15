@@ -145,6 +145,7 @@
      padding: 1rem;
      border-radius: 1rem;
      text-align: center;
+     padding-bottom: 2rem;
     
  }
 
@@ -162,6 +163,7 @@
      color:white;
  }
 
+/*Blog Styling*/ 
 
  .blog-img{
      max-width:600px;
@@ -176,14 +178,13 @@
      font-weight:lighter;
  }
 
- /* .blog h2{
-     font-weight:bold;
- } */
-
 .blog h3{
     font-weight: normal;
     font-style: italic;
 }
 
-
- 
+.gmail-img{
+    width:20px;
+    margin-bottom: -0.2rem;
+    margin-right:0.3rem;
+}
